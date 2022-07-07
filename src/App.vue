@@ -50,16 +50,20 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #fff;
-  margin-top: 60px;
 }
 h1 {
   font-size: 72px;
+  margin: 10px auto;
+  margin-top: 40px;
 }
 h2 {
   font-size: 52px;
+  margin-bottom: 25px;
+  margin-top: 10px;
 }
 a {
   text-decoration: underline;
+  font-style: italic;
   color: #fff;
   font-size: 26px;
   font-weight: 700;
